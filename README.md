@@ -5,7 +5,6 @@
 - 💻 Advanced in React Native and NodeJS/DenoJS. Really
 - ✨ Awesome user experience
 - ⚡ Performance everywhere
-- 🚀 Anyone can do what I do, but no one can do it the way I do
 - 💼 Check out my work on [Drakkle](https://play.google.com/store/apps/details?id=com.andresribeiro.drakkle)
 
 ### About me 🗞️

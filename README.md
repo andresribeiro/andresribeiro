@@ -2,14 +2,14 @@
 
 ### TL;DR
 
-- 💻 Advanced in React Native and NodeJS/DenoJS. Really
+- 💻 Experienced with React Native and NodeJS
 - ✨ Awesome user experience
 - ⚡ Performance everywhere
 - 💼 Check out my work on [Drakkle](https://play.google.com/store/apps/details?id=com.andresribeiro.drakkle)
 
 ### About me 🗞️
 
-I'm an advanced React Native and NodeJS/Deno developer. I love to be always using the most powerful tools, but without getting carried away by technologies that are in the hype and are temporary. I don't design, but I love UI and UX, so my apps are always accompanied by a delightful user experience. Performance is something I'm fascinated by, both on mobile, for my apps to always be at 120 FPS, and on the backend, for my API to process any request as fast as possible.
+I'm an experienced React Native and NodeJS developer. I love to be always using the most powerful tools, but without getting carried away by technologies that are in the hype and are temporary. I don't design, but I love UI and UX, so my apps are always accompanied by a delightful user experience. Performance is something I'm fascinated by, both on mobile, for my apps to always be at 120 FPS, and on the backend, for my API to process any request as fast as possible.
 
 ### 🧰 Languages and Tools
 

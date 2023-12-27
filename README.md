@@ -29,7 +29,7 @@ I'm an experienced React Native and NodeJS developer. I love to be always using 
 
 ### Check out my work 💼
 
-You can check out [Drakkle on Play Store](https://play.google.com/store/apps/details?id=com.andresribeiro.drakkle), an alternative social network to Twitter created by me. There you can see my work in action, including:
+You can check out [Rybun](https://rybun.com), an alternative social network to Twitter/X created by me. There you can see my work in action, including:
 
 📱 Soft animations, even on older devices<br>
 🌶️ Personalized menus created from scratch<br>
@@ -39,4 +39,4 @@ You can check out [Drakkle on Play Store](https://play.google.com/store/apps/det
 
 ### Talk to me 💌
 
-You can send hi to andresribeiroo@proton.me, but to tell the truth email seems a little outdated. You can also find me on [Telegram](https://t.me/andresribeiro), [Twitter](https://twitter.com/andresribeiro_) or [Instagram](https://www.instagram.com/andresribeiroo).
+You can send hi to andresribeiroo@proton.me, but to tell the truth email seems a little outdated. You can also find me on [Telegram](https://t.me/andresribeiro), or [Instagram](https://www.instagram.com/andresribeiroo).

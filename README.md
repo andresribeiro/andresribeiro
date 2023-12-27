@@ -39,4 +39,4 @@ You can check out [Rybun](https://rybun.com), an alternative social network to T
 
 ### Talk to me 💌
 
-You can send hi to andresribeiroo@proton.me, but to tell the truth email seems a little outdated. You can also find me on [Telegram](https://t.me/andresribeiro), or [Instagram](https://www.instagram.com/andresribeiroo).
+You can find me on [Telegram](https://t.me/andresribeiro) or [Instagram](https://www.instagram.com/andresribeiroo)

@@ -15,6 +15,6 @@
 ║                                          ║
 ║ ┌──(root@andresribeiro)-[~]              ║
 ║ └─$ pwd                                  ║
-║     https://us-east-1.dev                ║
+║     https://us-east-1.zip                ║
 ╚══════════════════════════════════════════╝
 ```

@@ -16,9 +16,5 @@
 ║ ┌──(root@andresribeiro)-[~]              ║
 ║ └─$ pwd                                  ║
 ║     https://us-east-1.dev                ║
-║                                          ║
-║ ┌──(root@andresribeiro)-[~]              ║
-║ └─$ uptime                               ║
-║     Up                                   ║
 ╚══════════════════════════════════════════╝
 ```

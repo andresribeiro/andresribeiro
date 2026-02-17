@@ -6,7 +6,7 @@
 ║                                          ║
 ║ ┌──(root@andresribeiro)-[~]              ║
 ║ └─$ git status                           ║
-║     Building getbarely.me in public      ║
+║     Building apps in public              ║
 ║                                          ║
 ║ ┌──(root@andresribeiro)-[~]              ║
 ║ └─$ cat socials.txt                      ║

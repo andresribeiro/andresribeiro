@@ -30,7 +30,6 @@
 ║                                                                    ║
 ║  ┌──(root@andresribeiro)-[~]                                       ║
 ║  └─$ pwd                                                           ║
-║      https://andresribeiro.dev                                     ║
 ║      https://github.com/andresribeiro                              ║
 ║                                                                    ║
 ║  ┌──(root@andresribeiro)-[~]                                       ║
